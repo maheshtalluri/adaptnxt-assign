@@ -1,0 +1,33 @@
+.dash-board {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.dash-board1 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #a5c2f2;
+    padding: 10px;
+}
+
+.dash-icon {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.dash-icon1 {
+    font-size: 20px;
+    margin-right: 10px;
+    color: black;
+}
+
+.slide-bar-bg {
+    padding: 20px;
+    width: 10%;
+}
+
+.text {
+    font-size: 20px;
+}

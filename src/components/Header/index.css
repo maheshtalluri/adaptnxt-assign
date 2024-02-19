@@ -1,0 +1,26 @@
+.shopify {
+    font-size: 30px;
+    margin-right: 50px;
+    color: #96bf48;
+    cursor: pointer;
+}
+
+.shopify1 {
+    font-size: 30px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+.shopify2 {
+    font-size: 30px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.nav-bg-container {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
